@@ -39,6 +39,7 @@ ADS-B Receiver to Track AirPlane with Raspberry PI
 
 - sudo reboot
 - rtl_test -t
+
 **If you get error messages such as "cb transfer status: 1, canceling." it may be because the dongle is taking too much power from the Raspberry Pi.** 
 
 **Installing DUMP1090**
