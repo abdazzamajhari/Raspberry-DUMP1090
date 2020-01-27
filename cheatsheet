@@ -1,0 +1,5 @@
+sudo gedit /etc/wpa_supplicant/wpa_supplicant.conf
+
+ssid="LKTI_24Ghz"
+	psk="labir2121"
+	key_mgmt=WPA-PSK
