@@ -6,6 +6,8 @@ ADS-B Receiver to Track AirPlane with Raspberry PI
 - Raspberry PI 3 B+
 - Raspberry PI 4
 
+OS Raspbian 2019-09-26
+
 *Here's the code:*
 - sudo apt-get update
 - sudo apt-get upgrade
@@ -36,7 +38,7 @@ ADS-B Receiver to Track AirPlane with Raspberry PI
 - blacklist dvb_usb_rtl28xxu
 - blacklist rtl2832
 - blacklist rtl2830
-
+**Save and Exit**
 - sudo reboot
 - rtl_test -t
 
@@ -51,7 +53,7 @@ ADS-B Receiver to Track AirPlane with Raspberry PI
 
 **add the lines**
 - blacklist dvb_usb_rtl28xxu
-
+**Save and Ext**
 - make
 - ./dump1090 --interactive --net --net-http-port 8080
 
