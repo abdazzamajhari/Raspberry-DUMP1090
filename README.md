@@ -38,6 +38,7 @@ OS Raspbian 2019-09-26
 - blacklist dvb_usb_rtl28xxu
 - blacklist rtl2832
 - blacklist rtl2830
+
 **Save and Exit**
 - sudo reboot
 - rtl_test -t
@@ -53,6 +54,7 @@ OS Raspbian 2019-09-26
 
 **add the lines**
 - blacklist dvb_usb_rtl28xxu
+
 **Save and Ext**
 - make
 - ./dump1090 --interactive --net --net-http-port 8080
