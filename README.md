@@ -6,9 +6,9 @@ ADS-B Receiver to Track AirPlane with Raspberry PI
 - Raspberry PI 3 B+
 - Raspberry PI 4
 
-Duplicate RTL-SDR working on my raspberry
-https://1drv.ms/u/s!AicoampUPouurTYq8dxO6U4J-4ke?e=Shm7n8
-https://1drv.ms/u/s!AicoampUPouurTd34zyW5mP94htK?e=qhBGPt
+Duplicate RTL-SDR working on my raspberry, if my tutorial not working
+- https://1drv.ms/u/s!AicoampUPouurTYq8dxO6U4J-4ke?e=Shm7n8
+- https://1drv.ms/u/s!AicoampUPouurTd34zyW5mP94htK?e=qhBGPt
 
 *Here's the code:*
 - sudo apt-get update
